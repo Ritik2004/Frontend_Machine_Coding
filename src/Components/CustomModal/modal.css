@@ -1,0 +1,11 @@
+.modal{
+    background-color: red;
+    z-index: 1;
+}
+
+.content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
